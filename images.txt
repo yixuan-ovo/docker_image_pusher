@@ -10,4 +10,4 @@ gitea/gitea
 filebrowser/filebrowser
 tindy2013/subconverter
 rustdesk/rustdesk-server
-fatedier/frp
+gists/frp
